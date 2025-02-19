@@ -26,8 +26,7 @@ function Contact() {
         );
     };
     const resetForm = () => {
-        form.current.reset(); 
-     
+        form.current.reset();  
     };
 
     return (
@@ -45,7 +44,6 @@ function Contact() {
                 <button type="button" onClick={resetForm} style={{ padding: "12px", backgroundColor: "#ff3333", color: "white", fontSize: "1rem", border: "none", borderRadius: "5px", cursor: "pointer" }}>
                         Réinitialiser
                 </button>
-             
             </form>
 
             <div className="contact-links" style={{ marginTop: "30px" }}>
