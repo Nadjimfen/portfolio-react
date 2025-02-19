@@ -42,7 +42,7 @@ function Contact() {
                     Envoyer
                 </button>
                 <button type="button" onClick={resetForm} style={{ padding: "12px", backgroundColor: "#ff3333", color: "white", fontSize: "1rem", border: "none", borderRadius: "5px", cursor: "pointer" }}>
-                        reset
+                        Réinitialiser
                 </button>
             </form>
 
