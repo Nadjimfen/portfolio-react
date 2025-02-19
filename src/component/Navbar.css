@@ -1,0 +1,15 @@
+.navbar {
+    background-color: #3a9691;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+  }
+  .navbar ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+  }
+  .navbar a {
+    color: white;
+    text-decoration: none;
+  }
