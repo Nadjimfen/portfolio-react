@@ -24,7 +24,7 @@ function About() {
                 animate={{ opacity: 1, x: 0 }}
                 transition={{ duration: 0.8, delay: 0.4 }}
             >
-                Développeur Full Stack passionné par l'innovation technologique, spécialisé en React.js et Node.js.
+                Développeur Full Stack passionné par l'innovation technologique, spécialisé en React.js et Laravel.
             </motion.p>
             <div className="about-content" style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: "20px" }}>
                 <motion.img 
